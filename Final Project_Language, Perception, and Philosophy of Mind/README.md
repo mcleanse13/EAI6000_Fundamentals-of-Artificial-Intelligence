@@ -1,3 +1,5 @@
+Exploring Shakespeare with NLP: Text Analysis of Hamlet Using Python
+
 In this final project, I explored natural language processing using Python and the NLTK library by analyzing the text of Hamlet from the Gutenberg Project. I focused on understanding the structure of a corpus, tokenizing text into words and sentences, and examining the components of Shakespeare’s language. By loading the raw text, I was able to quantify basic statistics such as total word count and extract individual lines and sentences to better understand the linguistic patterns and narrative structure of the play.
 
 Throughout the project, I applied tokenization techniques to break the text into meaningful units, which allowed me to inspect and manipulate specific portions of the text. This hands-on approach helped me appreciate the challenges of natural language understanding, including sentence boundary detection and handling of archaic language. Overall, this project deepened my understanding of how AI agents can perceive and process language, highlighting the importance of environment and structured textual data in building effective NLP solutions.
