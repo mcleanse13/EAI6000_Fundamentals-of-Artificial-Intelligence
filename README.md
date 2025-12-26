@@ -1,4 +1,4 @@
-# EAI6000_Fundamentals-of-Artificial-Intelligence
+EAI6000: Fundamentals of Artificial Intelligence
 
 Throughout the EAI6000 course, I explored the fundamentals of artificial intelligence and machine learning, gaining hands-on experience with supervised learning, model evaluation, natural language processing, and agent perception. Across the course projects, I implemented a variety of machine learning techniques including logistic regression, k-fold and repeated k-fold cross-validation, feature scaling, and hyperparameter tuning to optimize model performance. I worked with synthetic classification datasets to evaluate and improve model accuracy, applied pipelines and standardization for consistency, and leveraged GridSearchCV for systematic hyperparameter optimization. Each project emphasized critical aspects of model development, including selecting appropriate algorithms, preprocessing data, and measuring performance metrics to build robust and reliable predictive models.
 
